@@ -1,5 +1,5 @@
 {
-  "name": "ro-to-do-monorepo",
+  "name": "web",
   "private": true,
   "packageManager": "pnpm@8.10.0",
   "workspaces": [
